@@ -81,13 +81,13 @@
               <br>
               {{post.authors}}
               {% if post.advisor %}
-              Advisors: {{ post.advisor }}
+              Advisor: <a href="{{post.advisor_link}}"> {{ post.advisor }} </a>
               {% endif %}
               <br>
               {% if post.venue %}
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
-              {% endif %}
               <br>
+              {% endif %}
               {% if post.report %}
               <a href="{{post.report}}">report</a> /
               {% endif %}
