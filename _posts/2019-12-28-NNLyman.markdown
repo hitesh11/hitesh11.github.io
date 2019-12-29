@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Deep forest: Neural Network based reconstruction of the Lyman-α forest"
+date:   2019-12-28 22:21:59 +00:00
+image: 
+categories: research
+advisor: Prof. [Rupert Croft](https://www.cmu.edu/physics/people/faculty/croft.html)
+---
+Applying deep learning approaches to make predictions on intergalactic medium characteristics such as the density of neutral hydrogen in dense regions of the universe which are not observable directly. Designed a CNN based architecture to predict optical depth from noisy observations of observed flux from the simulation spectra of Lyman-α forest and achieved promising results.
