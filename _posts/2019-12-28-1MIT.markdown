@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Decoding Neural information from monkey's brain"
+date:   2019-12-29 18:00:00 +00:00
+image: /images/dna sequence mapping.png
+categories: research
+advisor1: Prof. Tomaso Poggio
+advisor1_link: https://mcgovern.mit.edu/profile/tomaso-poggio/
+advisor2: Prof. Ethan Meyers
+advisor2_link: http://emeyers.scripts.mit.edu/emeyers/
+advisor3: Prof. Ashish Anand
+advisor3_link: https://www.iitg.ac.in/anand.ashish/
+
+paper: /pdfs/bmc_article.pdf
+venue: 
+poster: 
+media: 
+
+---
+In the summer of 2014, I received the SN Bose Scholars Program award to pursue research at the Massachusetts Institute of Technology (MIT), USA. I worked in the Poggio Lab, part of the Center for Brains, Minds and Machines (CBMM), under the supervision of Prof. Ethan Meyers and Prof. Tomaso Poggio. I applied machine learning algorithms to decode monkeys' brain data, which was recorded when they participated in experiments focused on specialized brain functions of spatial working memory and task representation. I analyzed neural spike data from two experiments using the ML approach of population decoding. Specifically my work involved identifying the relevant conditions/stimuli to define as classes (such as eye movement towards target stimulus vs towards distractor stimulus), pre-processing neural data with normalizations to generate pseudo-population vectors, finding the optimal features and classification algorithm, and doing cross-validation analysis to determine decoding accuracy. I continued this work as my bachelor thesis to complete the research analysis under the guidance of my thesis supervisor Prof. Ashish Anand. We got promising results about the functions of specific brain regions and the nature of neural representation with more than 90% decoding accuracy. 
