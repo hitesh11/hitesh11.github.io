@@ -5,7 +5,7 @@ date:   2019-12-29 18:00:00 +00:00
 image: 
 categories: research
 course: ""
-advisor: "< a href="https://www.cs.cmu.edu/~./asim/">Prof. Asim Smailagic </a>"
+advisor: " Prof. [Asim Smailagic](https://www.cs.cmu.edu/~./asim/)"
 report: /pdfs/Semi_supervised_learning_for_Diabetic_Retinopathy_Report.pdf
 
 ---
