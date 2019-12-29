@@ -83,6 +83,9 @@
               {% if post.advisor %}
               Advisor: <a href="{{post.advisor_link}}"> {{ post.advisor }} </a>
               {% endif %}
+              {% if post.advisor1 %}
+              Advisors: <a href="{{post.advisor1_link}}"> {{ post.advisor1 }} </a>,  <a href="{{post.advisor2_link}}"> {{ post.advisor2 }} </a>,  <a href="{{post.advisor3_link}}"> {{ post.advisor3 }} </a>
+              {% endif %}
               <br>
               {% if post.venue %}
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
