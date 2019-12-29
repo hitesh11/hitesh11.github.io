@@ -2,7 +2,7 @@
 layout: post
 title:  "Decoding Neural information from monkey's brain"
 date:   2019-12-29 18:00:00 +00:00
-image: /images/dna sequence mapping.png
+image: /images/Population Decoding.png
 categories: research
 advisor1: Prof. Tomaso Poggio
 advisor1_link: https://mcgovern.mit.edu/profile/tomaso-poggio/
@@ -11,7 +11,7 @@ advisor2_link: http://emeyers.scripts.mit.edu/emeyers/
 advisor3: Prof. Ashish Anand
 advisor3_link: https://www.iitg.ac.in/anand.ashish/
 
-paper: /pdfs/bmc_article.pdf
+paper: /pdfs/BTP_11010122.pdf
 venue: 
 poster: 
 media: 
