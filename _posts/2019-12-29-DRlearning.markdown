@@ -2,7 +2,7 @@
 layout: post
 title:  "Semi-supervised learning for Diabetic Retinopathy"
 date:   2019-12-29 18:00:00 +00:00
-image: 
+image: /images/Screen_DR_Architecture.jpg
 categories: research
 advisor: Prof. Asim Smailagic
 advisor_link: https://www.cs.cmu.edu/~./asim/
