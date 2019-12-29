@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Research Internship, The University of Queensland (UQ), Australia, Winter 2013"
+date:   2019-12-29 18:00:00 +00:00
+image: /images/Plasmid.svg
+categories: research
+advisor: Prof. Scott Beatson
+advisor_link: https://scmb.uq.edu.au/profile/312/scott-beatson
+paper: /pdfs/PlasmidHunter_Report_final.pdf
+venue: 
+poster: 
+media: 
+
+---
+I designed a software pipeline to classify a bacterial sequence as either a chromosome or a plasmid using the method of filtering based on optimal sequence alignment using BLAST. This helped to classify a substantial number of plasmids, however, there were still a considerable number of false positives. So I started exploring machine learning-based approaches for better classification. This triggered my interest in learning more about pattern recognition methods as part of my Artificial Intelligence course project, where I continued working on this problem to obtain a high classification accuracy by applying the machine learning models of HMM, SVM and Neural networks.
