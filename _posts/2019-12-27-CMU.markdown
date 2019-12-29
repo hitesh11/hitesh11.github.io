@@ -2,7 +2,7 @@
 layout: post
 title:  "Research Internship, Carnegie Mellon University (CMU), USA, Summer 2013"
 date:   2019-12-29 18:00:00 +00:00
-image: 
+image: /images/dna sequence mapping.png
 categories: research
 advisor: Prof. Onur Mutlu
 advisor_link: https://people.inf.ethz.ch/omutlu/
