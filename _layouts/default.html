@@ -76,7 +76,9 @@
               Advisors: {{ post.advisors }}
               {% endif %}
               <br>
+              {{ if post.venue }}
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+              {{ endif }}
               <br>
               {% if post.report %}
               <a href="{{post.report}}">report</a> /
