@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Research Internship, Carnegie Mellon University (CMU), USA, Summer 2013"
+date:   2019-12-29 18:00:00 +00:00
+image: 
+categories: research
+advisor: Prof. Onur Mutlu
+advisor_link: https://people.inf.ethz.ch/omutlu/
+paper: /pdfs/bmc_article.pdf
+venue: 
+poster: 
+media: 
+
+---
+I worked with Prof. Onur Mutlu on improving the state-of-the-art algorithm for DNA sequence mapping, which is a known critical bottleneck in genomic research. I worked closely with the PhD student Hongyi Xin and designed an optimal algorithm for hash-based mappers based on the idea of "heterogeneous seeds" and achieved ~15X reduction in mapping cost, while increasing memory usage by only ~1.5% compared to state-of-the-art short seed mappers like mrFAST. I continued working on the problem after returning to IIT and we submitted our work to APBC 2014. The paper, unfortunately, didn’t get accepted as similar research was published around the same time and it taught me about the more humble side of research.
