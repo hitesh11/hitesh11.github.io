@@ -6,10 +6,10 @@
 name: Hitesh Arora
 
 # Short bio or description (displayed in the header)
-description: the profile of an engineer, researcher and software developer
+# description: the profile of an engineer, researcher and software developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/circle_bw_crop.jpg
+avatar: images/HiteshArora_dp.jpg
 
 #
 # Flags below are optional
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-155059076-1
 # excerpt_separator: <!--more-->
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
