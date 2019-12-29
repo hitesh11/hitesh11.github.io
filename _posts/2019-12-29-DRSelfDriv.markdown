@@ -2,7 +2,7 @@
 layout: post
 title:  "Deep Reinforcement Learning for Self Driving"
 date:   2019-12-29 18:00:00 +00:00
-image: /images/NeurIPS ML4AD Architecture.png
+image: /images/NeurIPS ML4AD Architecture.jpg
 categories: research
 advisor: Prof. Jeff Schneider
 advisor_link: https://www.cs.cmu.edu/~schneide/
