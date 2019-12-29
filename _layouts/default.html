@@ -84,9 +84,9 @@
               Advisors: {{ post.advisor }}
               {% endif %}
               <br>
-              {{ if post.venue }}
+              {% if post.venue %}
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
-              {{ endif }}
+              {% endif %}
               <br>
               {% if post.report %}
               <a href="{{post.report}}">report</a> /
