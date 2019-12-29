@@ -6,7 +6,7 @@ image: /images/NeurIPS ML4AD Architecture.jpg
 categories: research
 authors: Tanmay Agarwal∗, Hitesh Arora∗, Tanvir Parhar∗, Shubhankar Deshpande, Jeff Schneider
 advisor_link: https://www.cs.cmu.edu/~schneide/
-report: https://ml4ad.github.io/files/papers/Learning%20to%20Drive%20using%20Waypoints.pdf
+paper: https://ml4ad.github.io/files/papers/Learning%20to%20Drive%20using%20Waypoints.pdf
 venue: NeurIPS 2019 Workshop on Machine Learning for Autonomous Driving
 poster: /pdfs/Neurips 2019 ML4AD Poster.pdf
 media: https://www.talkrl.com/episodes/neurips-2019-deep-rl-workshop
