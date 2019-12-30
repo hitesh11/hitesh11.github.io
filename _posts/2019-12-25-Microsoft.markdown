@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Azure Compute team (June 2015 - June 2018)"
-date:   
+title:  "Azure Compute team"
+date: 2019-12-25 18:00:00 +0000
+duration : (June 2015 - June 2018)
 image: /images/microsoft.png
 categories: Intel
 
