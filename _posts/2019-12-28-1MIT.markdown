@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Decoding Neural information from monkey's brain"
-date:   2019-12-28 18:00:00 +00:00
+date:   2019-12-27 18:00:00 +00:00
 image: /images/Population Decoding.png
 categories: research
 advisor1: Prof. Tomaso Poggio
