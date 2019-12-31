@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Research Internship, The University of Queensland (UQ), Australia, Winter 2013"
-date:   2019-12-29 18:00:00 +00:00
+date:   2019-12-25 18:00:00 +00:00
 image: /images/Plasmid.svg
 categories: research
 advisor: Prof. Scott Beatson
