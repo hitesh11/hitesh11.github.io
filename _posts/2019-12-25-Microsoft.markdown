@@ -12,8 +12,8 @@ poster:
 media: https://docs.microsoft.com/en-us/azure/virtual-machines/windows/migration-classic-resource-manager-overview
 
 ---
-Delivered various core compute platform functionalities to achieve availability and performance goals of five 9s (99.999%). 
-Some of the projects shipped include:  
+Delivered various core compute platform functionalities to achieve availability and performance goals of five 9s (99.999%).  
+Some of the projects I shipped include:  
 a) [Platform supported migration of IaaS resources from classic to Azure Resource Manager](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/migration-classic-resource-manager-overview).  
 b) Designed and implemented automated health monitoring of [Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-overview) infrastructure for internal Azure Diagnostics services.  
 c) Shipped the throttling service to safeguard Geneva diagnostics cloud services from heavy users.  
