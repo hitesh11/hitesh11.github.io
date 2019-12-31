@@ -12,4 +12,9 @@ poster:
 media: https://docs.microsoft.com/en-us/azure/virtual-machines/windows/migration-classic-resource-manager-overview
 
 ---
-Delivered various core compute platform functionalities to achieve availability and performance goals of five 9s (99.999%). Some of the projects shipped include: a) Platform supported migration of IaaS resources from classic to Azure Resource Manager. b) Designed and implemented automated health monitoring of Service Fabric (SF) infrastructure for Azure Diagnostics services. c) Shipped the throttling service to safeguard Geneva diagnostics cloud services from heavy users. d) Designed “Top Errors” dashboard which shows the trending errors in a service enabling easier debugging.
+Delivered various core compute platform functionalities to achieve availability and performance goals of five 9s (99.999%). 
+Some of the projects shipped include: 
+a) [Platform supported migration of IaaS resources from classic to Azure Resource Manager](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/migration-classic-resource-manager-overview).
+b) Designed and implemented automated health monitoring of [Service Fabric] (https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-overview) (SF) infrastructure for internal Azure Diagnostics services.
+c) Shipped the throttling service to safeguard Geneva diagnostics cloud services from heavy users.
+d) Designed “Top Errors” dashboard which shows the trending errors in a service enabling easier debugging.
