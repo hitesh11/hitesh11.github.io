@@ -2,7 +2,7 @@
 layout: post
 title:  "Deep forest: Neural Network based reconstruction of the Lyman-α forest"
 date:   2019-12-28 02:21:59 +00:00
-image: /images/deep_forest.png
+image: /images/deep_forest.jpg
 categories: research
 advisor: "Prof. Rupert Croft"
 advisor_link: https://www.cmu.edu/physics/people/faculty/croft.html
