@@ -12,4 +12,5 @@ poster:
 media: 
 
 ---
-I designed a software pipeline to classify a bacterial sequence as either a chromosome or a plasmid using the method of filtering based on optimal sequence alignment using BLAST. This helped to classify a substantial number of plasmids, however, there were still a considerable number of false positives. So I started exploring machine learning-based approaches for better classification. This triggered my interest in learning more about pattern recognition methods as part of my Artificial Intelligence course project, where I continued working on this problem to obtain a high classification accuracy by applying the machine learning models of HMM, SVM and Neural networks.
+
+I worked with Prof. Scott Beatson to design an algorithm for classifying a bacterial sequence as either a chromosome or plasmid, which forms an important part of antibiotics research. We initially developed rule-based methods for classification based on the alignment distance from reference genomes. To improve results further, we applied machine learning methods of Hidden Markov Model, Support Vector Machine and Neural networks achieving accuracy of 67.7%, 82% and 87.6% respectively.
